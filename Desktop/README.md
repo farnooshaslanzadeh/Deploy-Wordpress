@@ -17,4 +17,5 @@ For this exercise you don’t need to create Dockerfiles.
  ```docker network connect wordpress-network local-mysql1```
  # 
  ```docker network connect wordpress-network local-mywordpress```
+ 
 #Open your browser and access our wordpress by ```localhost:8082```
